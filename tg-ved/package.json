@@ -1,0 +1,24 @@
+{
+  "name": "tg-ved",
+  "version": "1.0.0",
+  "description": "My first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vedant-Wedekar/my-first-node-package-maneger-.git"
+  },
+  "keywords": [
+    "npm",
+    "javascript",
+    "utilities"
+  ],
+  "author": "VEDANT N WEDEKAR",
+  "license": "  ISC",
+  "bugs": {
+    "url": "https://github.com/Vedant-Wedekar/my-first-node-package-maneger-/issues"
+  },
+  "homepage": "https://github.com/Vedant-Wedekar/my-first-node-package-maneger-#readme"
+}
